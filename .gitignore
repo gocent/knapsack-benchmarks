@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+typescript/dist
+typescript/node_modules
+
+.idea
+typescript/*.csv
+typescript/*.json
+
